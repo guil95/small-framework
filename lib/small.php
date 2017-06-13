@@ -131,9 +131,7 @@ function topo($options) {
                 }
             }
             ?>
-            <meta property="og:image" content="http://versions.marknet.com.br/lib/img/original.png"/>
-            <meta property="og:title" content="Versions Mcommerce e Mforce"/>
-            <meta property="og:description" content="Versions Mcommerce e Mforce"/>
+    
         </head>
         <body>
             <?php
